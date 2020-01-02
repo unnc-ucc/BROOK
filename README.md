@@ -1,5 +1,10 @@
 # Face2Multimodal
+
+## Showcase Examples
 Hereby, we showcase one example use case of BROOK database: Face-to-Multimodal Predictor.
+
+![example](https://raw.githubusercontent.com/unnc-idl-ucc/BROOK/master/figures/facecapture.jpg){:height="100" width="100"}
+![predictor](https://raw.githubusercontent.com/unnc-idl-ucc/BROOK/master/figures/Estimator.jpg){:height="100" width="100"}
 
 ## How to Setup
 

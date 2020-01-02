@@ -1,11 +1,11 @@
 # Overview
-We are building BROOK, a multi-modal and facial video database for Human-Vehicle Interaction Research. 
+Hereby, we showcase one example use case of BROOK database: Face-to-Multimodal Predictor.
 
-## Why BROOK? 
+## How to Setup
 
-## Face2Multi-modal Demonstration
+## Models for Demonstrations
 
-Sample models of DenseNet-BC-100. Training data contains Heart Rates(per minute), Skin Conductance(uS), Speed (km\h). The training procedure is powered by PyTorch.
+All models are saved under the folder "models". Sample models of DenseNet-BC-100. Training data contains Heart Rates(per minute), Skin Conductance(uS), Speed (km\h). The training procedure is powered by PyTorch.
 
 ## Accuracy
-![image](https://github.com/unnc-idl-ucc/BROOK/blob/master/figures/Accuracy.png)
+![accuracy](https://github.com/unnc-idl-ucc/BROOK/blob/master/figures/Accuracy.png)

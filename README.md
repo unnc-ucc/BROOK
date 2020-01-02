@@ -1,4 +1,4 @@
-# Overview
+# Face2Multimodal
 Hereby, we showcase one example use case of BROOK database: Face-to-Multimodal Predictor.
 
 ## How to Setup

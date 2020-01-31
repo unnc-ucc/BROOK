@@ -16,7 +16,7 @@ Hereby, we showcase one example use case: Face-to-Multimodal Predictor, as follo
 ## How to Setup
 
 1. Utilize a face detector (e.g. dlib) to crop the driver's front face and resize to 224x224 px.
-2. Load the model under the folder "models" by PyTorch and set the face as the input.
+2. Load the model under the folder "models" by PyTorch(Version 1.0.0-1.4.0) and set the face as the input.
 3. Run the model and get the predict result.
 4. Because predicting results is represented as a class number, some computation is required to get the result:
   * For predicting heart rate: result = predict result + 60

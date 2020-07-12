@@ -2,7 +2,7 @@
 
 [**VideoPreview(Youtube)**](https://youtu.be/LLYTffMaSGM)  
 This website presents Face2Multimodal Demo, powered by BROOK Database.
-Arxiv: https://arxiv.org/abs/2005.08637
+
 
 ## Introduction
 

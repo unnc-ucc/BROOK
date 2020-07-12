@@ -1,7 +1,7 @@
-# Face2Multimodal (Accepted by AutomotiveUI '2020 WIP.)
-
+# Face2Multimodal 
 [**VideoPreview(Youtube)**](https://youtu.be/LLYTffMaSGM)  
-This website presents Face2Multimodal Demo, powered by BROOK Database.
+This website presents Face2Multimodal Demo, powered by BROOK Database.(Accepted by AutomotiveUI '2020 WIP.)
+
 
 
 ## Introduction

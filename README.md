@@ -1,7 +1,8 @@
 # Face2Multimodal 
 [**VideoPreview(Youtube)**](https://youtu.be/LLYTffMaSGM)  
-This website presents Face2Multimodal Demo, powered by BROOK Database.(Accepted by AutomotiveUI '2020 WIP.)
-
+This website presents Face2Multimodal Demo, powered by BROOK Database.
+(Accepted by CHI '2020 Workshop Speculative Designs for Emergent Personal Data Trails: Signs, Signals and Signifiers. Link: https://www.emergentdatatrails.com/)
+Arxiv: https://arxiv.org/abs/2005.08637
 
 
 ## Introduction
